@@ -1,5 +1,5 @@
 ## EX.NO: 04 <br>
-## DATE:
+## DATE: 26-04-2022
 ## <p align="center">HISTOGRAM AND HISTOGRAM EQUALISATION OF AN IMAGE</p>
 
 ## Aim:
